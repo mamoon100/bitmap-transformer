@@ -22,6 +22,6 @@ To Use this Application follow the following steps:
 
 You can test this with the file exsist in the resources folder with this command (i.e we will choose the random color method).
 
-gradle run --args="src/main/resources/java.bmp src random"
+`gradle run --args="src/main/resources/java.bmp src random"`
 
-> Note: This Application will receive modification in order to have more method and implement the CLI app with whole interface for the user.
+> Note: This Application will receive modification in order to have more method and implement the CLI app with nice looking user inteface on the CLI.
